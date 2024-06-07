@@ -1,6 +1,6 @@
-# Sign In with Phone - React JS Demo
+# Sign In with Email - React JS Demo
 
-Welcome to the Sign In with Phone React JS demo! This application demonstrates the implementation of a "Login with Phone" button in a React JS environment.
+Welcome to the Sign In with Email React JS demo! This application demonstrates the implementation of a "Login with Email" button in a React JS environment.
 
 ## Website
 
@@ -8,21 +8,21 @@ Visit our website at [www.phone.email](https://www.phone.email) for more informa
 
 ## Documentation
 
-Detailed documentation is available at [www.phone.email/docs#reactjs](https://www.phone.email/docs#reactjs). Please refer to this documentation for instructions on how to integrate the "Login with Phone" functionality into your React JS project.
+Detailed documentation is available at [https://www.phone.email/docs-sign-in-with-email](https://www.phone.email/docs-sign-in-with-email). Please refer to this documentation for instructions on how to integrate the "Login with Email" functionality into your React JS project.
 
 ## Getting Started
 
-To get started with the Sign In with Phone React JS demo app, follow these steps:
+To get started with the Sign In with Email React JS demo app, follow these steps:
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/phoneemail/sign-in-with-phone-reactjs.git
+   git clone https://github.com/phoneemail/sign-in-with-email-reactjs.git
    ```
    
 2. Install dependencies:
     ```bash
-    cd sign-in-with-phone-reactjs
+    cd sign-in-with-email-reactjs
     npm install
     ```
 
@@ -39,10 +39,8 @@ To get started with the Sign In with Phone React JS demo app, follow these steps
 
 ## Features
 
-Login with Phone: Easily integrate a secure and convenient phone-based authentication system into your React JS application. 
+Login with Email: Easily integrate a secure and convenient email-based authentication system into your React JS application. 
 
-## License
 
-This project is licensed under the MIT License.
 
 
